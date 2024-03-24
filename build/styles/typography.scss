@@ -1,0 +1,31 @@
+// Typography
+
+
+// Impact Font
+$font-neue-haas-grotesk: neue-haas-grotesk-display,
+sans-serif;
+
+// Fonts
+$font-family-sans-serif:      $font-neue-haas-grotesk, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+$font-family-serif: Georgia,
+"Times New Roman",
+Times,
+serif !default;
+$font-family-base: $font-family-sans-serif;
+
+// Headers
+
+h1, h2, h3, h4, h5, h6{
+  margin: 0;
+}
+
+// Other
+
+.text-small{
+  font-size: 0.8rem;
+}
+
+.nowrap{
+  white-space: nowrap;
+}
