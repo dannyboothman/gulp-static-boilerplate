@@ -1,4 +1,4 @@
-# Gulp Site Boilerplate
+# Gulp Static Site Boilerplate
 
 Repo to get started quickly with a nice boilerplate with gulp actions
 
@@ -35,4 +35,4 @@ Edit files within the `build` folder.
 > Auto-timestamp files such as CSS by appending {{TIMESTAMP}} to the end of files `xyz.css{{TIMESTAMP}}`
 
 > Link to the local/ prod root by using `@@webRoot/folder/../file.css` _helpful when your root path isn't the main root folder (in this case the root is '/dist')_
-# gulp-static-boilerplate
+
